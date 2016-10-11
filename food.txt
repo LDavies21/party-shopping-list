@@ -1,1 +1,4 @@
 food.txt
+you are an egg
+egg
+egg
