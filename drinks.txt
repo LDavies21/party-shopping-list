@@ -1,1 +1,4 @@
 drinks.txt
+coke
+lemonade
+juice
