@@ -1,4 +1,4 @@
-drinks.txt
+drinks.html
 coke
 lemonade
-juice
+<strong> juice </strong>
